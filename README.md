@@ -3,10 +3,10 @@ Cơ Sở Ngôn Ngữ Học – Hỗ Trợ Xử Lý Ngôn Ngữ Tiếng Việt
 
 **Thông tin sinh viên:**
 
-| STT | Mã Số Sinh Viên     | Họ và Tên |
-|-----|---------------------|-----------|
-| 1   |Nguyễn Thị Ngọc Diễm |           |
-| 2   |                     |           |
+| STT | Mã Số Sinh Viên     | Họ và Tên          |
+|-----|---------------------|------------------- |
+| 1   |123000052            |Nguyễn Thị Ngọc Diễm|
+| 2   |                     |                    |
 
 ## Mô tả dự án
 
